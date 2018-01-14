@@ -1,0 +1,14 @@
+Application : MVTS
+
+ChromePath : ./Resource/chromedriver.exe
+firefoxpath : ./Resource/geckodriver.exe
+IEpath : ./Resource/IEDriverServer.exe
+
+BrowserName : Phantom
+URL :https://www.naukri.com/nlogin/login
+
+ObjectRepositoryExcelPath : ./ObjectRepository/ObjectRepository.xls
+objectrepositoryPropertyFilepath : ./ObjectRepository/objectRepository.property
+
+TestDataPath :./TestData/TestData.xls
+DataProviderPath : ./TestData/DataProviderTestData.xls
